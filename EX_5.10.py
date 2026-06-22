@@ -7,3 +7,4 @@ for i in range(num_students):
         highest = score
 
 print(f"The highest score is {highest}")
+
